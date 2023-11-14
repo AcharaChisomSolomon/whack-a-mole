@@ -1,4 +1,4 @@
-let score = 0;
+let score = 0; 
 let molesLeft = 30;
 let popupLength = 3000;
 let hideTimeout;
